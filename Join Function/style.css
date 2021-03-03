@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: lightgreen;
+}
+h1{
+    font-size: 50px;
+    color: green;
+}
+p{
+    color: blue;
+    font-size: 20px;
+}
+#sent1{
+    background-color: chartreuse;
+}
+#sent2{
+    background-color: chartreuse;
+}
+#sent3{
+    background-color: chartreuse;
+}
+#sent4{
+    background-color: chartreuse;
+}
+#sent5{
+    background-color: chartreuse;
+}
+#submit_button{
+    background-color: limegreen;
+}
